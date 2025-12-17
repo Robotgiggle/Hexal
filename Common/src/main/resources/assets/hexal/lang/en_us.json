@@ -47,10 +47,15 @@
 
 
   "hexcasting.iota.hexal:iota_type": "Iota Type",
+  "hexcasting.iota.hexal:iota_type.desc": "an iota type",
   "hexcasting.iota.hexal:entity_type": "Entity Type",
+  "hexcasting.iota.hexal:entity_type.desc": "an entity type",
   "hexcasting.iota.hexal:item_type": "Item Type",
+  "hexcasting.iota.hexal:item_type.desc": "and item type",
   "hexcasting.iota.hexal:gate": "Gate",
+  "hexcasting.iota.hexal:gate.desc": "a gate",
   "hexcasting.iota.hexal:item": "Item",
+  "hexcasting.iota.hexal:item.desc": "a mote",
 
   "hexal.spelldata.entity_type": "Type",
   "hexal.spelldata.gate": "Gate %d",
